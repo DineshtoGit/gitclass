@@ -1,4 +1,6 @@
 ram:hello prveen?
 praveen: hi ram how r i
 ram: im good. where are you?
-praveen: i am in salem. where r u ?:
+praveen: i am in salem. where r u ?
+ram:: i am in chennai. heavy rain here.. what abt there?
+
